@@ -1,2 +1,2 @@
 # Landing-page
- Landing page para testes
+ Landing page para praticar CSS e utilização da biblioteca anime.js!
